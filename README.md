@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegroosalugg" alt="thegroosalugg" /></a> </p>
 
+<h1>Here are my Projects</h1>
+
 - Treasure Keeper [https://github.com/malteasmuth/TreasureKeeper](https://github.com/malteasmuth/TreasureKeeper)
 
 <h3 align="left">Connect with me:</h3>
