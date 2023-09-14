@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Victor, I am working on improving my skills in Ruby, JavaScript and making great frontend
+Hi, I'm Victor, I am working on improving my skills in Ruby, JavaScript as well as improving my Frontend responsiveness
 
 
 ## 🌐 Socials:
