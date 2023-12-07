@@ -5,8 +5,7 @@ I have recently transitioned with an interest in a career in tech.
 I have worked previously with Ruby on Rails (CSS and Bootstrap for the frontend) and am currenntly working on my JS skills by learning React. NodeJS is next on the menu!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvloginov) 
-[![CodeWars](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://codewars.com/users/thegroosalugg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvloginov) $~$
 [![CodeWars](https://www.codewars.com/users/thegroosalugg/badges/micro)](https://www.codewars.com/users/thegroosalugg)
 
 # 💻 Tech Stack:
