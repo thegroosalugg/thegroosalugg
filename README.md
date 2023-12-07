@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, good afternoon, good, thanks, and you? Thanks for asking!
+Hi, good afternoon, fine, and you? Thanks for asking!
 
 I have recently transitioned with an interest in a career in tech. 
 I have worked previously with Ruby on Rails (CSS and Bootstrap for the frontend) and am currenntly working on my JS skills by learning React. NodeJS is next on the menu!
