@@ -14,7 +14,7 @@ I have worked previously with Ruby on Rails (CSS and Bootstrap for the frontend)
 [![Watch the video](https://img.youtube.com/vi/z_JS0x4Mgzk/0.jpg)](https://www.youtube.com/watch?v=z_JS0x4Mgzk)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thegroosalugg&limit=5&theme=dark&combine_all_yearly_contributions=true
+![](https://github-contributor-stats.vercel.app/api?username=thegroosalugg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thegroosalugg&icon=6&color=11)](https://visitcount.itsvg.in)
