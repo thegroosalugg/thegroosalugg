@@ -16,8 +16,6 @@ I have worked previously with Ruby on Rails (CSS and Bootstrap for the frontend)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thegroosalugg&limit=5&theme=dark&combine_all_yearly_contributions=true
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z_JS0x4Mgzk" frameborder="0" allowfullscreen></iframe>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=thegroosalugg&icon=6&color=11)](https://visitcount.itsvg.in)
 
