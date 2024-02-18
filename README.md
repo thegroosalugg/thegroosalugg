@@ -1,20 +1,24 @@
 # 💫 About Me:
 Hi, good afternoon, fine, and you? Thanks for asking!
 
-I have recently transitioned with an interest in a career in tech. 
-I have worked previously with Ruby on Rails (CSS and Bootstrap for the frontend) and am currenntly working on my JS skills by learning React. NodeJS is next on the menu!
+Tech enthusiast transitioning to a career in web development. LeWagon alumni with a hors d'oeuvre in Ruby on Rails, served with a side of CSS and Bootstrap. Currently savoring React as the main course, with NodeJS for dessert.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvloginov)
 [![CodeWars](https://www.codewars.com/users/thegroosalugg/badges/micro)](https://www.codewars.com/users/thegroosalugg)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+const techStack = ['HTML', 'CSS', 'BootStrap', 'TailWind', 'JavaScript', 'Ruby', 'Rails', 'Git', 'GitHub', 'SQL']
+techStack.push('React')
+
+### Check out my projects:
+
+- [MySpaceShip](https://github.com/thegroosalugg/MySpaceShip) - [Rent a Spaceship, conquer the stars].
+- [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) - [Ruby based CLI Text game].
+- [TreasureKeeper](https://github.com/thegroosalugg/TreasureKeeper) - [Gamify your budget goals].
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thegroosalugg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thegroosalugg&icon=6&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
