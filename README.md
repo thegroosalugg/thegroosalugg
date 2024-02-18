@@ -8,6 +8,7 @@ Tech enthusiast transitioning to a career in web development. LeWagon alumni wit
 [![CodeWars](https://www.codewars.com/users/thegroosalugg/badges/micro)](https://www.codewars.com/users/thegroosalugg)
 
 const techStack = ['HTML', 'CSS', 'BootStrap', 'TailWind', 'JavaScript', 'Ruby', 'Rails', 'Git', 'GitHub', 'SQL']
+
 techStack.push('React')
 
 ### Check out my projects:
