@@ -8,11 +8,11 @@ const techStack = ['HTML', 'CSS', 'BootStrap', 'TailWind', 'JavaScript', 'Ruby',
 techStack.push('React');
 ```
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vvloginov)
 [![CodeWars](https://www.codewars.com/users/thegroosalugg/badges/micro)](https://www.codewars.com/users/thegroosalugg)
 
-### Check out my projects:
+### 📽️ Check out my projects:
 
 - [MySpaceShip](https://github.com/thegroosalugg/MySpaceShip) - 🚀 [Rent a Spaceship, conquer the stars].
 - [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) -  🏰 [Ruby based CLI Text game].
