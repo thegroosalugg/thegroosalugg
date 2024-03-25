@@ -14,6 +14,7 @@ techStack.push('React');
 
 ### 📽️ Check out my projects:
 
+- [ReactUniverse](https://react-universe.web.app/) - 🌌 [Mini React Project].
 - [MySpaceShip](https://github.com/thegroosalugg/MySpaceShip) - 🚀 [Rent a Spaceship, conquer the stars].
 - [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) -  🏰 [Ruby based CLI Text game].
 - [TreasureKeeper](https://github.com/thegroosalugg/TreasureKeeper) -  💎 [Gamify your budget goals].
