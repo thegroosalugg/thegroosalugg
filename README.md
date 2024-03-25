@@ -15,9 +15,9 @@ techStack.push('React');
 ### 📽️ Check out my projects:
 
 - [ReactUniverse](https://react-universe.web.app/) - 🌌 [Mini React Project].
-- [MySpaceShip](https://github.com/thegroosalugg/MySpaceShip) - 🚀 [Rent a Spaceship, conquer the stars].
-- [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) -  🏰 [Ruby based CLI Text game].
-- [TreasureKeeper](https://github.com/thegroosalugg/TreasureKeeper) -  💎 [Gamify your budget goals].
+- [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) -  🏰 [Ruby based CLI Text game]. ``` Ruby CLI game. Install Ruby, download .zip, run in interminal with ruby interface.rb```
+- [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) -  💎 [Gamify your budget goals]. ``` Start server, refresh page in 15 seconds to wake from hibernation```
+- [MySpaceShip](https://myspaceship-9e73f7ca505b.herokuapp.com/) - 🚀 [Rent a Spaceship, conquer the stars]. ```Same as above```
 
 
 ### 🔝 Top Contributed Repo
