@@ -19,8 +19,4 @@ techStack.push('React');
 - [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) 💎 [Gamify your budget goals] $~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
 - [MySpaceShip](https://myspaceship-9e73f7ca505b.herokuapp.com/) &nbsp;&nbsp;&nbsp;🚀 [Conquer the stars] $~~~~~~~~~~~~~~~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thegroosalugg&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=thegroosalugg&icon=6&color=11)](https://visitcount.itsvg.in)
