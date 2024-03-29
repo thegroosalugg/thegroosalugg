@@ -18,5 +18,3 @@ techStack.push('React');
 - [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) &nbsp;&nbsp;🏰 [Ruby based CLI Text game] $~$ ```Install Ruby, download .zip, run ruby interface.rb in terminal```
 - [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) 💎 [Gamify your budget goals] $~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
 - [MySpaceShip](https://myspaceship-9e73f7ca505b.herokuapp.com/) &nbsp;&nbsp;&nbsp;🚀 [Conquer the stars] $~~~~~~~~~~~~~~~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
-
-[![](https://visitcount.itsvg.in/api?id=thegroosalugg&icon=6&color=11)](https://visitcount.itsvg.in)
