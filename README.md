@@ -16,6 +16,6 @@ techStack.push('React');
 
 - [Andromeda](https://andromeda-1649b.web.app/) $~~~~~~$☄️ [React Project in Progress]
 - [ReactUniverse](https://react-universe.web.app/) &nbsp;&nbsp;🌌 [Mini React Project]
-- [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) &nbsp;&nbsp;🏰 [Ruby based CLI Text game] $~$ ```Install Ruby, download .zip, run ruby interface.rb in terminal```
-- [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) 💎 [Gamify your budget goals] $~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
-- [MySpaceShip](https://myspaceship-9e73f7ca505b.herokuapp.com/) &nbsp;&nbsp;&nbsp;🚀 [Conquer the stars] $~~~~~~~~~~~~~~~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
+- [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) &nbsp;&nbsp;🏰 [CLI Text Game in Ruby] $~$ ```Install Ruby, download .zip, run ruby interface.rb in terminal```
+- [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) 💎 [2nd LeWagon Project] $~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
+- [MySpaceShip](https://myspaceship-9e73f7ca505b.herokuapp.com/) &nbsp;&nbsp;&nbsp;🚀 [&nbsp; 1st LeWagon Project] $~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
