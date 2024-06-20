@@ -14,7 +14,9 @@ techStack.push('React');
 
 ### 📽️ Check out my projects:
 
-- [Andromeda](https://andromeda-1649b.web.app/) $~~~~~~$☄️ [React Project in Progress]
+
+- [ComeGetMe](https://github.com/Iyayi2/comeGetMe) $~~~~~$🛒 [A more down to Earth Project] with [Iyayi Roland](https://github.com/Iyayi2) ```backend by Iyayi, frontend by yours truly. Not live yet```
+- [Andromeda](https://andromeda-1649b.web.app/) $~~~~~~$☄️ [Out of this World Project] ```live but incomplete``` 
 - [ReactUniverse](https://react-universe.web.app/) &nbsp;&nbsp;🌌 [Mini React Project]
 - [CastleCarnage](https://github.com/thegroosalugg/CastleCarnage) &nbsp;&nbsp;🏰 [CLI Text Game in Ruby] $~$ ```Install Ruby, download .zip, run ruby interface.rb in terminal```
 - [TreasureKeeper](http://www.treasurekeeper.online/users/sign_in) 💎 [2nd LeWagon Project] $~~~$ ```⚠️ Wait 10 seconds for AutoIdle to restart the app```
