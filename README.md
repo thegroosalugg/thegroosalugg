@@ -16,10 +16,14 @@ Hi I'm Victor.
     <summary>Tech Stack</summary>
     <pre><code>
       const techStack = {
-        frontend: ['SCSS', 'Bootstrap'],
-         backend: 'Ruby on Rails',
-        database: 'PostgreSQL',
-      deployment: 'Heroku',
+        frontend: ['SCSS', 'React', 'TypeScript'],
+         backend: ['Node', 'Express'],
+       libraries: {
+               react: ['React Router', 'React Helmet', 'Framer-Motion', 'Font Awesome'],
+                node: ['BSCrypt', 'CORS', 'DotENV', 'Express Validator', 'JSONWebToken', 'Mongoose', 'Multer', 'Socket.IO'],
+                  },
+        database: 'MongoDB',
+      deployment: ['Vercel', 'Render'],
       };
     </code></pre>
   </details>
@@ -40,10 +44,9 @@ Hi I'm Victor.
     <summary>Tech Stack</summary>
     <pre><code>
       const techStack = {
-        frontend: ['SCSS', 'Bootstrap'],
-         backend: 'Ruby on Rails',
-        database: 'PostgreSQL',
-      deployment: 'Heroku',
+        frontend: ['SCSS', 'React', 'TypeScript'],
+       libraries: ['React Router', 'Redux', 'Framer-Motion', 'React Helmet', 'React Datepicker', 'Faker', 'Font Awesome'],
+      deployment: 'Firebase',
       };
     </code></pre>
   </details>
@@ -64,10 +67,9 @@ Hi I'm Victor.
     <summary>Tech Stack</summary>
     <pre><code>
       const techStack = {
-        frontend: ['SCSS', 'Bootstrap'],
-         backend: 'Ruby on Rails',
-        database: 'PostgreSQL',
-      deployment: 'Heroku',
+        frontend: ['CSS', 'React', 'JavaScript'],
+         library: 'Framer-Motion',
+      deployment: 'Firebase',
       };
     </code></pre>
   </details>
@@ -88,10 +90,9 @@ Hi I'm Victor.
     <summary>Tech Stack</summary>
     <pre><code>
       const techStack = {
-        frontend: ['SCSS', 'Bootstrap'],
-         backend: 'Ruby on Rails',
-        database: 'PostgreSQL',
-      deployment: 'Heroku',
+           language: 'ruby',
+        environment: 'terminal',
+          execution: 'ruby interface.rb',
       };
     </code></pre>
   </details>
@@ -106,7 +107,8 @@ Hi I'm Victor.
 <details>
   <summary>&nbsp;<a href="https://github.com/thegroosalugg/TreasureKeeper" target="_blank">TreasureKeeper</a></summary>
   <p>
-    text
+    I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
+    redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -130,7 +132,8 @@ Hi I'm Victor.
 <details>
   <summary>&nbsp;<a href="https://github.com/thegroosalugg/MySpaceShip" target="_blank">MySpaceShip</a></summary>
   <p>
-    I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or redeploying them, they were         valuable learning experiences. Here are the GitHub links for a quick overview.
+    I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
+    redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -146,7 +149,11 @@ Hi I'm Victor.
    <details>
     <summary>What I learned</summary>
     <p>
-      This was my first project as part of a team of four at Le Wagon. We had a tight deadline of about four days for coding. I was responsible for the frontend,            primarily using Bootstrap along with ERB and JavaScript for dynamic elements. The project was a fun platform where users could rent and post their own                 spaceships. The backend allowed account creation, viewing and renting ships, and posting listings. This experience helped me learn by doing, enabling me to            write large amounts of code quickly under pressure while integrating creative ideas and feedback from my teammates.
+      This was my first project as part of a team of four at Le Wagon. We had a tight deadline of about four days for coding. I was 
+      responsible for the frontend, primarily using Bootstrap along with ERB and JavaScript for dynamic elements. The project was a fun 
+      platform where users could rent and post their own spaceships. The backend allowed account creation, viewing and renting ships, 
+      and posting listings. This experience helped me learn by doing, enabling me to write large amounts of code quickly under pressure 
+      while integrating creative ideas and feedback from my teammates.
     </p>
   </details>
 </details>
