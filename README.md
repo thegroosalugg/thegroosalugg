@@ -84,7 +84,7 @@ Hi I'm Victor.
 <details>
   <summary>&nbsp;<a href="https://github.com/thegroosalugg/CastleCarnage" target="_blank">CastleCarnage</a></summary>
   <p>
-    text
+    This Ruby-based text-only CLI game was one of those projects where I started coding and just kept going. I enjoyed building a playful, humorous experience with a heavy emphasis on ASCII art and emojis, all displayed in color in the terminal.
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -99,7 +99,7 @@ Hi I'm Victor.
    <details>
     <summary>What I learned</summary>
     <p>
-      text
+      I started with hard-coded elements to see quick results, but the real learning came through refactoring. Turning repetitive blocks into reusable generators taught me the value of clean, efficient code. I also developed my own method for improving readability, aligning similar code elements—such as operators and constants—in columns to make the structure more intuitive at a glance. Despite being a simple terminal game, I creatively used ASCII art, emojis, and text characters to bring the game to life.
     </p>
   </details>
 </details>
@@ -124,7 +124,7 @@ Hi I'm Victor.
    <details>
     <summary>What I learned</summary>
     <p>
-      text
+      I focused on mobile-first development, refining my frontend skills with SCSS and Bootstrap. This project helped me understand the nuances of designing for mobile while still working within a tight 4-day timeline.
     </p>
   </details>
 </details>
