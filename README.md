@@ -10,8 +10,16 @@ Hi I'm Victor.
 <details>
   <summary>&nbsp;<a href="https://e-harbour.vercel.app">eHarbour</a></summary>
   <p>
-    The original project that I collaborated on can be found here. <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I was responsible for writing the entire frontend for this app with     React and Typescript. Upon completing this project, I wanted to deploy my own personal copy where I could make my own independent changes and have control of the DB and deployment. Any further improvements       that I made to the frontend in my personal copy, I also implemented in the original.
+    The original project that I collaborated on can be found here. <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I was responsible for writing the entire frontend for this app with React and 
+    Typescript. Upon completing this project, I wanted to deploy my own personal copy where I could make my own independent changes and have control of the DB and deployment. Any further improvements that I made 
+    to the frontend in my personal copy, I also implemented in the original.
   </p>
+  <pre><code>
+    Render's servers will hibernate after inactivity and may take a couple of minutes to wake up. 
+    No requests are sent on the homepage, please navigate to any other route. 
+    A page refresh might be needed if the server does not wake up. 
+    Any images uploaded will be erased once the server sleeps.
+  </code></pre>
   <details>
     <summary>Tech Stack</summary>
     <pre><code>
