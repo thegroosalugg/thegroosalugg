@@ -8,7 +8,7 @@ Hi I'm Victor.
 ### 📽️ Check out my projects:
 
 <details>
-  <summary>&nbsp;<a href="https://e-harbour.vercel.app">eHarbour</a></summary>
+  <summary>&nbsp;⚓&nbsp;<a href="https://e-harbour.vercel.app">eHarbour</a></summary>
   <p>
     The original project that I collaborated on can be found here. <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I was responsible for writing the entire frontend for this app with React and 
     Typescript. Upon completing this project, I wanted to deploy my own personal copy where I could make my own independent changes and have control of the DB and deployment. Any further improvements that I made 
@@ -44,7 +44,7 @@ Hi I'm Victor.
 </details>
 
 <details>
-  <summary>&nbsp;<a href="https://andromeda-1649b.web.app">Andromeda</a></summary>
+  <summary>&nbsp;☄️&nbsp;<a href="https://andromeda-1649b.web.app">Andromeda</a></summary>
   <p>
    This was my first solo project after completing Maximilian Schwarzmüller's React course, serving as a playground to practice my React skills. While I had basic knowledge of CSS, this project allowed me to        improve by learning through writing, without taking any additional CSS courses. The inspiration came from my Le Wagon MySpaceShip project, as I wanted to reuse the spaceship images. The goal was to implement     popular web development features such as store cart logic, a booking system with full date validation, account management, modals, custom hooks, and a landing page featuring animations—a hobby of mine. I         created an interactive solar system with PNGs and more advanced animations. This is a static project using Redux and localStorage to simulate a backend. Item data is randomly generated on app launch and saved    to storage, so it differs if launched on different browsers or if site data is cleared.
   </p>
@@ -67,7 +67,7 @@ Hi I'm Victor.
 </details>
 
 <details>
-  <summary>&nbsp;<a href="https://react-universe.web.app">ReactUniverse</a></summary>
+  <summary>&nbsp;🌌&nbsp;<a href="https://react-universe.web.app">ReactUniverse</a></summary>
   <p>
     This was a mini React project I deployed while learning React, as part of Maximilian Schwarzmüller's React course. I recently explored Framer Motion and used this project as a playground to practice it,          while also applying some of the React concepts taught in the course. The section included images of interesting locations on Earth, and I expanded on this by creating a small solar system using CSS.
   </p>
@@ -90,7 +90,7 @@ Hi I'm Victor.
 </details>
 
 <details>
-  <summary>&nbsp;<a href="https://github.com/thegroosalugg/CastleCarnage">CastleCarnage</a></summary>
+  <summary>&nbsp;🏰&nbsp;<a href="https://github.com/thegroosalugg/CastleCarnage">CastleCarnage</a></summary>
   <p>
     This Ruby-based text-only CLI game was one of those projects where I started coding and just kept going. I enjoyed building a playful, humorous experience with a heavy emphasis on ASCII art and emojis, all 
     displayed in color in the terminal.
@@ -117,7 +117,7 @@ Hi I'm Victor.
 </details>
 
 <details>
-  <summary>&nbsp;<a href="https://github.com/thegroosalugg/TreasureKeeper">TreasureKeeper</a></summary>
+  <summary>&nbsp;🪙&nbsp;<a href="https://github.com/thegroosalugg/TreasureKeeper">TreasureKeeper</a></summary>
   <p>
     I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
     redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
@@ -143,7 +143,7 @@ Hi I'm Victor.
 </details>
 
 <details>
-  <summary>&nbsp;<a href="https://github.com/thegroosalugg/MySpaceShip">MySpaceShip</a></summary>
+  <summary>&nbsp;🚀&nbsp;<a href="https://github.com/thegroosalugg/MySpaceShip">MySpaceShip</a></summary>
   <p>
     I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
     redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
