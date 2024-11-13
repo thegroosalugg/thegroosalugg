@@ -8,6 +8,29 @@ Hi I'm Victor.
 ### 📽️ Check out my projects:
 
 <details>
+  <summary>&nbsp;💬&nbsp;<a href="https://geschwindigkeitsbegrenzu-a89a6.web.app">Geschwindigkeitsbegrenzung</a></summary>
+  <p>
+    Quick quiz timed game I created aimed at mobiles, but can also be used in browser, to learn German prepositions for my B2 course. It has a difficulty setting,        score streaks, time stop bonus and a record of high scores. As well as list of all the verbs with preterite, past perfect and English/Russian translations. It's      nice to make a learning resource for yourself that you can depend on, with the information that's most useful to you. Initially, I set out to get AI to write me      sentences with missing prepositions, but despite my attempts to alter my prompts and try different AIs, it did not generate my desired sentences. I did not wish      to have an overly large data file, and also found on testing that I remember answers based on memorising the question, rather than the verb preposition combo.        As such I decided to make a sentence generator that can use regular, irrelugar, reflexive, separable and stative verbs. This way a lot of words are the same, but     the sentences always vary and force you to memorise the preposition/verb combos than the questions. The overall sentence generator however, does use the same         sentence structure throughout, so some of the statements, though grammatically correct, might not make much sense in real life. Nevertheless, they do add a touch     of comedy, and the logic of the sentences is not the goal of the app, it merely sets out to help me memorise which preposition goes with which verb.
+  </p>
+  <details>
+    <summary>Tech Stack</summary>
+    <pre><code>
+      const techStack = {
+        frontend: ['CSS', 'React', 'TypeScript'],
+       libraries: ['Framer-Motion', 'React Router', 'Font Awesome'],
+      deployment: 'Firebase',
+      };
+    </code></pre>
+  </details>
+   <details>
+    <summary>What I learned</summary>
+    <p>
+      Though the project uses many technologies I have previously run with, I was able to finish it in a faster time frame and really thrive with the mobile first          approach by making a responsive app using minimal media queries, and code in general. Most media queries focuses on providing a slighlt alternate look in             landscape mode, otherwise, they would not have even been needed. I also had a lot of fun designing my own custom game hook, which started off long and complex        but later was refactored into a neat litle package with great readability and minimal prop drilling.
+    </p>
+  </details>
+</details>
+
+<details>
   <summary>&nbsp;⚓&nbsp;<a href="https://e-harbour.vercel.app">eHarbour</a></summary>
   <p>
     The original project that I collaborated on can be found here. <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I was responsible for writing the entire frontend for this app with React and 
@@ -62,29 +85,6 @@ Hi I'm Victor.
     <summary>What I learned</summary>
     <p>
      Building this project helped me further develop my React and CSS skills, applying what I had learned over the past several months. I created more complex animations, custom hooks, gained a better                 understanding of Redux, and explored different routing methods while making the site responsive. I challenged myself not to reuse code across routes, experimenting with each new one. For example, I used the      same component for the spaceship grid and footer, while the user page employed modals and Redux to update list data simultaneously. The validation logic is managed by a complex custom hook that keeps the         components clean. The store page, which was one of the last pages, used unique CSS grid tricks to showcase items in a fresh way.
-    </p>
-  </details>
-</details>
-
-<details>
-  <summary>&nbsp;🌌&nbsp;<a href="https://react-universe.web.app">ReactUniverse</a></summary>
-  <p>
-    This was a mini React project I deployed while learning React, as part of Maximilian Schwarzmüller's React course. I recently explored Framer Motion and used this project as a playground to practice it,          while also applying some of the React concepts taught in the course. The section included images of interesting locations on Earth, and I expanded on this by creating a small solar system using CSS.
-  </p>
-  <details>
-    <summary>Tech Stack</summary>
-    <pre><code>
-      const techStack = {
-        frontend: ['CSS', 'React', 'JavaScript'],
-         library: 'Framer-Motion',
-      deployment: 'Firebase',
-      };
-    </code></pre>
-  </details>
-   <details>
-    <summary>What I learned</summary>
-    <p>
-      This project was an entry-level playground for experimenting with Framer Motion, alongside React concepts like Render Props and Compound Components. Although I structured the codebase similarly to React          Router, the app remained a true single-page application (SPA) without any actual routing.
     </p>
   </details>
 </details>
