@@ -14,8 +14,10 @@ Hi I'm Victor.
     different. In my previous project, I was responsible for the frontend. With this project, I took on the entire backend development myself, bringing a stronger        emphasis on validation, handling edge cases, and route protection. Although I also worked on the frontend, I used EJS to keep the project a cohesive, server-side     application. The backend was written with TypeScript, which is compiled by Render.com and dynamically changes the static paths for production so that same assets     can be re-used by the nested JavaScript App.
   </p>
   <pre><code>
-    During development, the password reset emails were configured to fire from my personal GMail to myself. Unfortunately, during production, sending emails to 
-    external addresses is limited without a registered business. As such, I have skipped this feature in the production build and the request redirects you directly      to the link you would receive in an email. This is a demo app, and should only be handled with dummy data afterall.
+    During development, the password reset emails were configured to fire from my personal GMail to myself. 
+    Unfortunately, during production, sending emails to external addresses is limited without a registered business. 
+    During production this is skipped and the request redirects you directly to the link you would receive in an email. 
+    This ia a demo app, as such you should only input dummy data.
   </code></pre>
   <details>
     <summary>Tech Stack</summary>
