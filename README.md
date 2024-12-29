@@ -69,6 +69,7 @@ Hi I'm Victor.
       <li>Score based items allow user to pause timer</li>
       <li>Records high scores, along with difficulty tried</li>
       <li>Wordbook shows in game verbs, DAT/ACC cases, and Eng & Ru translations</li>
+      <li>Sentence generator differentiates regular, irregular, reflex, separable & stative verbs</li>
       <li>Runs on desktop, but aimed at mobile. Alternate landscape/portrait layouts</li>
       <li>Clean, well-written custom hook handles all game logic</li>
     </ul>
