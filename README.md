@@ -8,9 +8,46 @@ Hi I'm Victor.
 ### 📽️ Check out my projects:
 
 <details>
+  <summary>&nbsp;🛒&nbsp;<a href="https://d-bay.onrender.com/">D-Bay</a></summary>
+  <p>
+    At first glance, this app may seem similar to my previous project, E-Harbour, which is reflected in the name. However, the focus of this project is quite     
+    different. In my previous project, I was responsible for the frontend. With this project, I took on the entire backend development myself, bringing a stronger        emphasis on validation, handling edge cases, and route protection. Although I also worked on the frontend, I used EJS to keep the project a cohesive, server-side     application. The backend was written with TypeScript, which is compiled by Render.com and dynamically changes the static paths for production so that same assets     can be re-used by the nested JavaScript App.
+  </p>
+  <pre><code>
+    During development, the password reset emails were configured to fire from my personal GMail to myself. Unfortunately, during production, sending emails to 
+    external addresses is limited without a registered business. As such, I have skipped this feature in the production build and the request redirects you directly      to the link you would receive in an email. This is a demo app, and should only be handled with dummy data afterall.
+  </code></pre>
+  <details>
+    <summary>Tech Stack</summary>
+    <pre><code>
+      const techStack = {
+        frontend: ['EJS', 'SCSS'],
+         backend: ['Node', 'Express'],
+       libraries: ["bcryptjs", "connect-mongo", "dotenv", "express-session", "express-validator", "mongoose", "multer", "nodemailer", "stripe"],
+      deployment: 'Render',
+      };
+    </code></pre>
+  </details>
+   <details>
+    <summary>About</summary>
+    <ul>
+      <h3>EJS Express Free-ads Project</h3>
+      <li>Sessions retain non-sensitive user submitted data on invalidated form submissions</li>
+      <li>All routes protected from unauthorised access</li>
+      <li>CSRF protection with custom middleware</li>
+      <li>Multer configured to store then clean submitted files. This ensures users do not need to re-upload when validation fails</li>
+      <li>First line express validator, backed up by final front mongoose validator, both fed back to user</li>
+      <li>EJS follows React concept. A single template can handle several views.</li>
+      <li>Dynamic GET routes ensure to render correct data based on data received</li>
+      <li>STRIPE Demo [use 4242] handles checkout payments</li>
+    </ul>
+  </details>
+</details>
+
+<details>
   <summary>&nbsp;💬&nbsp;<a href="https://geschwindigkeitsbegrenzu-a89a6.web.app">Geschwindigkeitsbegrenzung</a></summary>
   <p>
-    Quick quiz timed game I created aimed at mobiles, but can also be used in browser, to learn German prepositions for my B2 course. It has a difficulty setting,        score streaks, time stop bonus and a record of high scores. As well as list of all the verbs with preterite, past perfect and English/Russian translations. It's      nice to make a learning resource for yourself that you can depend on, with the information that's most useful to you. Initially, I set out to get AI to write me      sentences with missing prepositions, but despite my attempts to alter my prompts and try different AIs, it did not generate my desired sentences. I did not wish      to have an overly large data file, and also found on testing that I remember answers based on memorising the question, rather than the verb preposition combo.        As such I decided to make a sentence generator that can use regular, irrelugar, reflexive, separable and stative verbs. This way a lot of words are the same, but     the sentences always vary and force you to memorise the preposition/verb combos than the questions. The overall sentence generator however, does use the same         sentence structure throughout, so some of the statements, though grammatically correct, might not make much sense in real life. Nevertheless, they do add a touch     of comedy, and the logic of the sentences is not the goal of the app, it merely sets out to help me memorise which preposition goes with which verb.
+    While studying for my B2 German language course, an important theme was remembering which preposition pairs with which verb. In order to help me memorise them, I     decided to make a quick time based game. My original plan was to have AI fill my database with sentences, however it did not quite generate the kind of ideas I       had envisioned. Additionally, I saw that I am more likely to remember the question, than the verb-preposition pairings. As such I decided to develop a random         sentence generator. The sentences have similar structures, and due to RNG will not be memorable, forcing you to focus on the verbs instead of the questions. Some     of these sentences are unlikely to be heard in a typical German conversation, but do add a touch of humour and do a good job in remaining gramatically correct. 
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -23,19 +60,23 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-      Though the project uses many technologies I have previously run with, I was able to finish it in a faster time frame and really thrive with the mobile first          approach by making a responsive app using minimal media queries, and code in general. Most media queries focuses on providing a slighlt alternate look in             landscape mode, otherwise, they would not have even been needed. I also had a lot of fun designing my own custom game hook, which started off long and complex        but later was refactored into a neat litle package with great readability and minimal prop drilling.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>Time Based React Quiz</h3>
+      <li>Difficulty select affects time remaining, score gained, lives & required score to get item</li>
+      <li>Score based items allow user to pause timer</li>
+      <li>Records high scores, along with difficulty tried</li>
+      <li>Wordbook shows in game verbs, DAT/ACC cases, and Eng & Ru translations</li>
+      <li>Runs on desktop, but aimed at mobile. Alternate landscape/portrait layouts</li>
+      <li>Clean, well-written custom hook handles all game logic</li>
+    </ul>
   </details>
 </details>
 
 <details>
   <summary>&nbsp;⚓&nbsp;<a href="https://e-harbour.vercel.app">eHarbour</a></summary>
   <p>
-    The original project that I collaborated on can be found here. <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I was responsible for writing the entire frontend for this app with React and 
-    Typescript. Upon completing this project, I wanted to deploy my own personal copy where I could make my own independent changes and have control of the DB and deployment. Any further improvements that I made 
-    to the frontend in my personal copy, I also implemented in the original.
+    The original project that I collaborated on can be found here: <a href="https://github.com/Iyayi2/comeGetMe">comeGetMe</a>. I wrote all of the Frontend using         React & TypeScript. After completing the original project, I cloned my own version where I can manage my own DB & deployment. 
   </p>
   <pre><code>
     Render's servers will hibernate after inactivity and may take a couple of minutes to wake up. 
@@ -59,17 +100,23 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-      This project was a valuable learning experience, allowing me to further hone my React skills within a full-stack environment using MongoDB and Node/Express. I gained a better understanding of the backend's       role in web development and how it interacts with the frontend. I was able to modify backend controllers to control data flow and reduce fetch requests, keeping both sides cleaner. Though I considered            using Tanstack for data fetching, I opted to rely on React’s custom hooks, designing versatile ones that handle various data types and state updates without page reloads. The original project used                session-based authentication, which caused issues on some browsers due to third-party cookie restrictions. To improve user experience, I replaced session-based authentication with JSON Web Token (JWT)            authentication in my personal version, which required significant changes to both the frontend and backend. This challenge was highly rewarding, and I was pleased with the result.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>MERN Stack Free-ads Project</h3>
+      <li>2-Man Team Project - I created all Frontend with React & TypeScript</li>
+      <li>All elements animate to server responses</li>
+      <li>Live Chat functionality</li>
+      <li>All client requests handled by a modular and clean custom hook</li>
+      <li>Original Backend ran Session authentication. I converted my version to JWT to escape 3rd party cookie limitations</li>
+      <li>Great responsiveness on all devices. Used sticky nav but ensured it does not steal the page on high zoom</li>
+    </ul>
   </details>
 </details>
 
 <details>
   <summary>&nbsp;☄️&nbsp;<a href="https://andromeda-1649b.web.app">Andromeda</a></summary>
   <p>
-   This was my first solo project after completing Maximilian Schwarzmüller's React course, serving as a playground to practice my React skills. While I had basic knowledge of CSS, this project allowed me to        improve by learning through writing, without taking any additional CSS courses. The inspiration came from my Le Wagon MySpaceShip project, as I wanted to reuse the spaceship images. The goal was to implement     popular web development features such as store cart logic, a booking system with full date validation, account management, modals, custom hooks, and a landing page featuring animations—a hobby of mine. I         created an interactive solar system with PNGs and more advanced animations. This is a static project using Redux and localStorage to simulate a backend. Item data is randomly generated on app launch and saved    to storage, so it differs if launched on different browsers or if site data is cleared.
+    My first React Project after completing a course on Udemy.com. Project written in TypeScript and aims to cover your staple web development features such as cart      logic, bookings & account management.
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -82,18 +129,22 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-     Building this project helped me further develop my React and CSS skills, applying what I had learned over the past several months. I created more complex animations, custom hooks, gained a better                 understanding of Redux, and explored different routing methods while making the site responsive. I challenged myself not to reuse code across routes, experimenting with each new one. For example, I used the      same component for the spaceship grid and footer, while the user page employed modals and Redux to update list data simultaneously. The validation logic is managed by a complex custom hook that keeps the         components clean. The store page, which was one of the last pages, used unique CSS grid tricks to showcase items in a fresh way.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>Static React Space Themed Project</h3>
+      <li>Covers Cart Logic, Bookings, User Account management</li>
+      <li>Different Frontend styles for each Page: ensures each list offers something new</li>
+      <li>Data storage managed with Redux & localStorage</li>
+      <li>Custom react hook covers form validation, ensures booked dates cannot be re-used etc.</li>
+      <li>Showcases some fun animations & interactive Solar System page using Framer Motion</li>
+    </ul>
   </details>
 </details>
 
 <details>
-  <summary>&nbsp;🏰&nbsp;<a href="https://github.com/thegroosalugg/CastleCarnage">CastleCarnage</a></summary>
+  <summary>&nbsp;🏰&nbsp;<a href="https://github.com/thegroosalugg/CastleCarnage">CastleCarnage [CLI game]</a></summary>
   <p>
-    This Ruby-based text-only CLI game was one of those projects where I started coding and just kept going. I enjoyed building a playful, humorous experience with a heavy emphasis on ASCII art and emojis, all 
-    displayed in color in the terminal.
+    With the aim to improve my general coding I wrote a CLI game in Ruby to run in the terminal. To run it, you must download the code from GH, ensure you have Ruby      installed, head to root directory and run "ruby interface.rb"
   </p>
   <details>
     <summary>Tech Stack</summary>
@@ -106,18 +157,20 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-      I started with hard-coded elements to see quick results, but the real learning came through refactoring. Turning repetitive blocks into reusable generators 
-      taught me the value of clean, efficient code. I also developed my own method for improving readability, aligning similar code elements—such as operators and 
-      constants—in columns to make the structure more intuitive at a glance. Despite being a simple terminal game, I creatively used ASCII art, emojis, and text 
-      characters to bring the game to life.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>Solo CLI Text based Game</h3>
+      <li>Display using ASCII art</li>
+      <li>ANSI escape codes add color</li>
+      <li>Program runs until user quits. Replay is possible</li>
+      <li>Attack random generated monsters, find items in rooms, level up possible, RPG format</li>
+      <li>Easy to read & well organised code structure</li>
+    </ul>
   </details>
 </details>
 
 <details>
-  <summary>&nbsp;🪙&nbsp;<a href="https://github.com/thegroosalugg/TreasureKeeper">TreasureKeeper</a></summary>
+  <summary>&nbsp;🪙&nbsp;<a href="https://github.com/thegroosalugg/TreasureKeeper">TreasureKeeper [code only]</a></summary>
   <p>
     I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
     redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
@@ -134,16 +187,19 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-      I focused on mobile-first development, refining my frontend skills with SCSS and Bootstrap. This project helped me understand the nuances of designing for 
-      mobile while still working within a tight 4-day timeline.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>2nd Project at Le Wagon</h3>
+      <li>Created in a Team of 4</li>
+      <li>Used Ruby on Rails for the backend</li>
+      <li>I wrote all the frontend using ERB, Bootstrap, & CSS</li>
+      <li>Developed in 3 days of coding</li>
+    </ul>
   </details>
 </details>
 
 <details>
-  <summary>&nbsp;🚀&nbsp;<a href="https://github.com/thegroosalugg/MySpaceShip">MySpaceShip</a></summary>
+  <summary>&nbsp;🚀&nbsp;<a href="https://github.com/thegroosalugg/MySpaceShip">MySpaceShip [code only]</a></summary>
   <p>
     I'm sharing a couple of my earlier Le Wagon projects that were initially deployed by a contributor. While I won’t be revisiting or 
     redeploying them, they were valuable learning experiences. Here are the GitHub links for a quick overview.
@@ -160,13 +216,13 @@ Hi I'm Victor.
     </code></pre>
   </details>
    <details>
-    <summary>What I learned</summary>
-    <p>
-      This was my first project as part of a team of four at Le Wagon. We had a tight deadline of about four days for coding. I was 
-      responsible for the frontend, primarily using Bootstrap along with ERB and JavaScript for dynamic elements. The project was a fun 
-      platform where users could rent and post their own spaceships. The backend allowed account creation, viewing and renting ships, 
-      and posting listings. This experience helped me learn by doing, enabling me to write large amounts of code quickly under pressure 
-      while integrating creative ideas and feedback from my teammates.
-    </p>
+    <summary>About</summary>
+    <ul>
+      <h3>Initial Project at Le Wagon</h3>
+      <li>Created in a Team of 4</li>
+      <li>Used Ruby on Rails for the backend</li>
+      <li>I wrote all the frontend using ERB, Bootstrap, & CSS</li>
+      <li>Developed in 4 days of coding</li>
+    </ul>
   </details>
 </details>
