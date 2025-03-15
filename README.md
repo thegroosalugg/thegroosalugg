@@ -8,6 +8,51 @@ Hi I'm Victor.
 ### 📽️ Check out my projects:
 
 <details>
+  <summary>&nbsp;👥&nbsp;<a href="https://friendface-lyart.vercel.app//">Friendface</a></summary>
+  <p>
+    This is the first REST API I developed after learning Node and Express. It's a small social media example where users can add/remove friends, create posts, reply 
+    to others, and chat with added friends. In-app notifications are sent for friend requests, replies, and new messages.
+    I built the full stack using MERN, without TanStack, Context, or Redux—only effects and custom hooks. Authentication data is fetched at the top level and prop- 
+    drilled throughout. While query/state management libraries simplify development, relying solely on useEffect deepens your understanding of React’s lifecycle. 
+    This approach also requires careful handling to prevent unnecessary requests, especially when combined with AnimatePresence exit animations, which can retrigger 
+    effects on unmount. Check out web dev tools to view the logs.                                               
+  </p>
+  <pre><code>
+    Render's servers will hibernate after inactivity and may take a couple of minutes to wake up. 
+    Images are saved to File System using Multer. They can be uploaded for demo purposes but will be deleted by the server when it sleeps.
+  </code></pre>
+  <details>
+    <summary>Tech Stack</summary>
+    <pre><code>
+      const techStack = {
+        frontend: ['SCSS', 'React', 'TypeScript'],
+         backend: ['Node', 'Express'],
+       libraries: {
+               react: ['React Router', 'Framer-Motion', 'Font Awesome', 'Socket.IO Client'],
+                node: ['BSCrypt', 'DotENV', 'Express Validator', 'JSONWebToken', 'Mongoose', 'Multer', 'Socket.IO'],
+                  },
+        database: 'MongoDB',
+      deployment: ['Vercel', 'Render'],
+      };
+    </code></pre>
+  </details>
+   <details>
+    <summary>About</summary>
+    <ul>
+      <h3>MERN Stack Social Media Project</h3>
+      <li>Server & Client routes both protected</li>
+      <li>No Tanstack/Context/Redux - custom hooks and useEffect only</li>
+      <li>Receive notifications for chats, friend requests & post replies</li>
+      <li>New routes fetch initial data and handle all updates with sockets</li>
+      <li>Lots of reusable, modular components which reduce codebase</li>
+      <li>Server controllers capable of handling requests from different endpoints</li>
+      <li>Responsive for desktop & mobile. Alternate landscape nav layout.</li>
+      <li>Clean & logging on server & client. See in web tools for client.</li>
+    </ul>
+  </details>
+</details>
+
+<details>
   <summary>&nbsp;🛒&nbsp;<a href="https://d-bay.onrender.com/">D-Bay</a></summary>
   <p>
     At first glance, this app may seem similar to my previous project, E-Harbour, which is reflected in the name. However, the focus of this project is quite     
@@ -85,7 +130,7 @@ Hi I'm Victor.
     Render's servers will hibernate after inactivity and may take a couple of minutes to wake up. 
     No requests are sent on the homepage, please navigate to any other route. 
     A page refresh might be needed if the server does not wake up. 
-    Any images uploaded will be erased once the server sleeps.
+    Images are saved to File System using Multer. They can be uploaded for demo purposes but will be deleted by the server when it sleeps.
   </code></pre>
   <details>
     <summary>Tech Stack</summary>
@@ -95,7 +140,7 @@ Hi I'm Victor.
          backend: ['Node', 'Express'],
        libraries: {
                react: ['React Router', 'React Helmet', 'Framer-Motion', 'Font Awesome'],
-                node: ['BSCrypt', 'CORS', 'DotENV', 'Express Validator', 'JSONWebToken', 'Mongoose', 'Multer', 'Socket.IO'],
+                node: ['BSCrypt', 'CORS', 'DotENV', 'Express Validator', 'JSONWebToken', 'Mongoose', 'Multer'],
                   },
         database: 'MongoDB',
       deployment: ['Vercel', 'Render'],
